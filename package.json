@@ -1,0 +1,32 @@
+{
+  "name": "nobles-moderasyon-bot",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "jimp": "^0.16.1",
+    "quick.db": "^7.1.2",
+    "moment-duration-format": "^2.3.2",
+    "canvacord": "^5.2.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
